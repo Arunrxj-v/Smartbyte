@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950482324016",
+    "project_id": "smartbite-b8e07",
+    "storage_bucket": "smartbite-b8e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950482324016:android:cc3402911a8d7c13a37bf5",
+        "android_client_info": {
+          "package_name": "com.example.arun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0IRFwiUjT9kyxmeNl41MF2QXk3egr56o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
